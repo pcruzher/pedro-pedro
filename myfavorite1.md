@@ -21,7 +21,7 @@
 and Ensenada is also a beautiful town.
 ## Jupyter what a fancy interface  ##
 ---
-![Some results in Jupyter](jupiter.JPG) This are the blast results with Panopea transcriptome
+![Some results in Jupyter](jupiter.JPG) These are the blast results with Panopea transcriptome
 
 ---
 
