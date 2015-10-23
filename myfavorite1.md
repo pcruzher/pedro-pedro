@@ -17,11 +17,11 @@
 ----------
 
 ## The classes are going on.. ##
-![Teacher in action](\Users\curso16\Desktop\almejas\pedro-pedro\IMG_8111.JPG)
+![Teacher in action](IMG_8111.JPG)
 and Ensenada is also a beautiful town.
 ## Jupyter what a fancy interface  ##
 ---
-![Some results in Jupyter](\Users\curso16\Desktop\almejas\pedro-pedro\jupiter.JPG) This are the blast results with Panopea transcriptome
+![Some results in Jupyter](jupiter.JPG) This are the blast results with Panopea transcriptome
 
 ---
 
